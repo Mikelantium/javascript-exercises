@@ -1,0 +1,20 @@
+function findArrayIndex(array, text) {
+    for (let i = 0; i < array.length; i++) {
+      if (array[i] === text) {
+        return i;
+      }
+    }
+  }
+
+  function removeItem(array, text) {
+    const index = findArrayIndex(array, text);
+    if (index !== -1) {
+      array.splice(index, 1);
+    }
+    return array;
+  }
+  const array1 = ['Caracol', 'Mosquito', 'Salamandra', 'Ajolote'];
+  console.log(removeItem(array1, "Mosquito"));
+  
+  const array2 =["Caca", "Culo", "Pedo", "Pis"];
+  console.log(removeItem(array2, "Pis"));

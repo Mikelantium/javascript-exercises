@@ -1,0 +1,123 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Aatrox",
+      "image": "http://localhost:3000/images/exercise-6/01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ahri",
+      "image": "http://localhost:3000/images/exercise-6/02.jpg"
+
+    },
+    {
+      "id": 3,
+      "name": "Akali",
+      "image": "http://localhost:3000/images/exercise-6/03.jpg"
+
+    },
+    {
+      "id": 4,
+      "name": "Akshan",
+      "image": "http://localhost:3000/images/exercise-6/04.jpg"
+
+    },
+    {
+      "id": 5,
+      "name": "Alistar",
+      "image": "http://localhost:3000/images/exercise-6/05.jpg"
+
+    },
+    {
+      "id": 6,
+      "name": "Amumu",
+      "image": "http://localhost:3000/images/exercise-6/06.jpg"
+
+    },
+    {
+      "id": 7,
+      "name": "Anivia",
+      "image": "http://localhost:3000/images/exercise-6/07.jpg"
+
+    },
+    {
+      "id": 8,
+      "name": "Annie",
+      "image": "http://localhost:3000/images/exercise-6/08.jpg"
+
+    },
+    {
+      "id": 9,
+      "name": "Aphelios",
+      "image": "http://localhost:3000/images/exercise-6/09.jpg"
+
+    },
+    {
+      "id": 10,
+      "name": "Ashe",
+      "image": "http://localhost:3000/images/exercise-6/10.jpg"
+
+    },
+    {
+      "id": 11,
+      "name": "Aurelion Sol",
+      "image": "http://localhost:3000/images/exercise-6/11.jpg"
+
+    },
+    {
+      "id": 12,
+      "name": "Azir",
+      "image": "http://localhost:3000/images/exercise-6/12.jpg"
+
+    },
+    {
+      "id": 13,
+      "name": "Bard",
+      "image": "http://localhost:3000/images/exercise-6/13.jpg"
+
+    },
+    {
+      "id": 14,
+      "name": "Bel'Veth",
+      "image": "http://localhost:3000/images/exercise-6/14.jpg"
+
+    },
+    {
+      "id": 15,
+      "name": "Blitzcrank",
+      "image": "http://localhost:3000/images/exercise-6/15.jpg"
+
+    },
+    {
+      "id": 16,
+      "name": "Brand",
+      "image": "http://localhost:3000/images/exercise-6/16.jpg"
+
+    },
+    {
+      "id": 17,
+      "name": "Braum",
+      "image": "http://localhost:3000/images/exercise-6/17.jpg"
+
+    },
+    {
+      "id": 18,
+      "name": "Caitlyn",
+      "image": "http://localhost:3000/images/exercise-6/18.jpg"
+
+    },
+    {
+      "id": 19,
+      "name": "Camille",
+      "image": "http://localhost:3000/images/exercise-6/19.jpg"
+
+    },
+    {
+      "id": 20,
+      "name": "Cassiopeia",
+      "image": "http://localhost:3000/images/exercise-6/20.jpg"
+
+    }
+  ]
+}

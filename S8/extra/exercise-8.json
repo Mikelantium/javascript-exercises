@@ -1,0 +1,83 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Goku",
+      "description": "Son Goku (孫そん悟ご空くうKan, Son GokūHepJP, Sūn Wùkōng), originalmente llamado Zero en Estados Unidos e Hispanoamérica (doblaje de Harmony Gold) y posteriormente Gokú en este último, es el protagonista principal del manga y anime de Dragon Ball creado por Akira Toriyama. Su nombre real y de nacimiento es Kacarrot (カカロットKan, KakarottoHepJP, Kakarrot en Saiyan.png en alfabeto saiyano) y es uno de los pocos saiyanos que lograron sobrevivir a la destrucción total del Planeta Vegeta del Universo 7. Es el segundo hijo de Bardock y Gine, hermano menor de Raditz, nieto adoptivo de Son Gohan, esposo de Chi-Chi, padre de Son Gohan y Son Goten, a su vez también es el abuelo de Pan y ancestro de Son Goku Jr.",
+      "avatar": "http://localhost:3000/images/goku.png",
+      "idPlanet": 1
+    },
+    {
+      "id": 2,
+      "name": "Vegeta",
+      "description": "Vegeta IV (ベジータ四世Kan, Bejīta Yon-sei[27]HepJP), reconocido oficialmente como el Príncipe Vegeta (ベジータ王子Kan, Bejīta-ōjiHepJP) y más conocido simplemente como Vegeta (ベジータKan, BejītaHepJP) o Vegeeta, es el deuteragonista de Dragon Ball Z, Dragon Ball Z Kai, Dragon Ball GT y Dragon Ball Super. Es el hijo mayor del Rey Vegeta III, así como el príncipe más reciente de la familia real saiyana y uno de los pocos supervivientes tras el genocidio saiyano del planeta Vegeta del Universo 7, destruido a manos de Freeza. Es el eterno rival de Son Goku, hermano mayor de Tarble, el esposo de Bulma, padre de Trunks y Bra y ancestro de Vegeta Jr.",
+      "avatar": "http://localhost:3000/images/vegeta.png",
+      "idPlanet": 1
+    },
+    {
+      "id": 3,
+      "name": "Android 17",
+      "description": "Androide Número 17 (人造人間１７号Kan, Jinzōningen Jū Nana-GōHepJP) conocido como Lapis (ラピスKan, RapisuHepJP)[13] antes de ser secuestrado, es el hermano gemelo de la Androide Número 18, quien al igual que ella antes de ser Androide era un humano normal hasta que fueron secuestrados por el Dr. Gero, y es por eso que lo odian. Tras su cambio de humano a Androide, le insertaron un chip con el objetivo de destruir a Son Goku, quien en su juventud extermino al Ejército del Listón Rojo. Al considerarse defectuoso porque no quería ser 'esclavo de nadie', el Dr. Gero les había colocado a ambos hermanos, un dispositivo de apagado para detenerlos en cualquier momento de desobediencia, pero cuando el científico los despierta, el rencor y rebeldía de 17 eran tal que se encargó de destruir el control que lo volvería a encerrar y acto seguido mató sin piedad a su propio creador. Su situación se le iría en contra, ya que Cell tenía como misión absorber a 17 y 18 para completar su desarrollo y convertirse en Cell Perfecto.",
+      "avatar": "http://localhost:3000/images/android-17.png",
+      "idPlanet": 2
+    },    {
+      "id": 3,
+      "name": "Trunks",
+      "description": "Trunks (トランクスKan, TorankusuHepJP), también conocido como Trunk en el doblaje al español de España, es un mestizo entre humano terrícola y Saiyan nacido en la Tierra, e hijo de Bulma y Vegeta, el cual es introducido en el Arco de los Androides y Cell. Más tarde en su vida como joven, se termina convirtiendo en un luchador de artes marciales, el mejor amigo de Son Goten y en el hermano mayor de su hermana Bra.",
+      "avatar": "http://localhost:3000/images/trunks.png",
+      "idPlanet": 2
+    },
+    {
+      "id": 5,
+      "name": "Son Gohan",
+      "description": "Son Gohan (孫そん悟ご飯はんKan, Son GohanHepJP), Son Gohanda[29] en su tiempo en España, o simplemente Gohan en Hispanoamérica, es uno de los personajes principales de los arcos argumentales de Dragon Ball Z, Dragon Ball Super y Dragon Ball GT. Es un mestizo entre saiyano y humano terrícola. Es el primer hijo de Son Goku y Chi-Chi, hermano mayor de Son Goten, esposo de Videl y padre de Pan.",
+      "avatar": "http://localhost:3000/images/son-gohan.png",
+      "idPlanet": 2
+    },
+    {
+      "id": 6,
+      "name": "Bulma",
+      "description": "Bulma (ブルマKan, BurumaHepJP), también conocida como la científica genio Dra. Bulma (ブルマ 博士【はかせ】Kan, Buruma Hakase[15]HepJP) es la protagonista femenina de la serie manga Dragon Ball y sus adaptaciones al anime Dragon Ball, Dragon Ball Z, Dragon Ball Super y Dragon Ball GT. Es hija del Dr. Brief y su esposa Panchy, hermana menor de Tights y una gran amiga de Son Goku con quien inicia la búsqueda de las Esferas del Dragón. En Dragon Ball Z tuvo a Trunks, primogénito de quien sería su esposo Vegeta, a su hija Bra[16] y su hijo adulto del tiempo alterno Trunks del Futuro Alternativo.",
+      "avatar": "http://localhost:3000/images/bulma.png",
+      "idPlanet": 2
+    },
+    {
+      "id": 6,
+      "name": "Son Goten",
+      "description": "Son Goten (孫そん悟ご天てんKan, Son GotenHepJP), llamado también simplemente Goten, es el segundo hijo de Chi-Chi y Son Goku, y hermano menor de Son Gohan, que nació al poco tiempo de la segunda muerte de su padre.",
+      "avatar": "http://localhost:3000/images/goten.png",
+      "idPlanet": 2
+    },
+    {
+      "id": 8,
+      "name": "Videl",
+      "description": "Videl (ビーデルKan, BīderuHepJP) es la hija del campeón mundial de Artes Marciales Mr. Satán y de la famosa cantante fallecida Miguel. Ella es la esposa de Son Gohan y madre de Pan.",
+      "avatar": "http://localhost:3000/images/videl.png",
+      "idPlanet": 2
+    },
+    {
+      "id": 9,
+      "name": "Piccolo",
+      "description": "Piccolo (ピッコロKan, PikkoroHepJP, Piccolo en namekiano.png en idioma namekiano) o Piccolo Jr. (ピッコロ・ジュニアKan, Pikkoro JuniaHepJP), también conocido bajo el seudónimo de Ma Junior (マジュニアKan, Ma JuniaHepJP), es uno de los personajes principales que aparece en el manga y anime de Dragon Ball y sus correspondientes secuelas.",
+      "avatar": "http://localhost:3000/images/piccolo.png",
+      "idPlanet": 3
+    }
+  ],
+  "planets": [
+    {
+      "id": 1,
+      "name": "Vegeta",
+      "image": "http://localhost:3000/images/planeta-vegeta.png"
+    },
+    {
+      "id": 2,
+      "name": "Tierra",
+      "image": "http://localhost:3000/images/planeta-tierra.png"
+    },
+    {
+      "id": 3,
+      "name": "Namek",
+      "image": "http://localhost:3000/images/planeta-namek.png"
+    }
+  ]
+}

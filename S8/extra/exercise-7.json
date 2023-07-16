@@ -1,0 +1,68 @@
+{
+  "orders": [
+    {
+      "id": 22,
+      "date": "2020-11-22",
+      "products": [
+        {
+          "productId": 2,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "date": "2020-01-11",
+      "products": [
+        {
+          "productId": 3,
+          "quantity": 2
+        },
+        {
+          "productId": 5,
+          "quantity": 1
+        },
+        {
+          "productId": 22,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 422,
+      "date": "2020-01-22",
+      "products": [
+        {
+          "productId": 22,
+          "quantity": 2
+        },
+        {
+          "productId": 54,
+          "quantity": 10
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "name": "Camiseta bombacha"
+    },
+    {
+      "id": 3,
+      "name": "Caqueta Amerirrara"
+    },
+    {
+      "id": 22,
+      "name": "Pantalón de piquillo"
+    },
+    {
+      "id": 5,
+      "name": "Zapato de no piel de serpiente"
+    },
+    {
+      "id": 54,
+      "name": "Corbata barata"
+    }
+  ]
+}
