@@ -1,8 +1,8 @@
 const animalFunction = () => {
-    return {name: 'Mad dog', race: 'Dog'};
+    return {name: 'Bengal Tiger', race: 'Tiger'}
 };
 
-const { name, race } = animalFunction();
+const {name, race} = animalFunction();
 
-console.log(name);  
-console.log(race);  
+console.log(name);
+console.log(race);
