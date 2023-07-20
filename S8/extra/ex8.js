@@ -5,7 +5,6 @@ searchInput.placeholder = "Buscar";
 searchInput.addEventListener("input", charactersByPlanet);
 searchContainer.appendChild(searchInput);
 
-loadPlanets();
 async function fetchPlanets() {
   const response = await fetch("http://localhost:3000/planets");
   const data = await response.json();
@@ -45,11 +44,6 @@ function createCharacterCard(character) {
   const characterCard = document.createElement("div");
   characterCard.innerHTML = `<h3>${character.name}</h3><img src="${character.avatar}" alt="${character.name}" ><p class="description" style="display: none;">${character.description}</p>`;
 
-  characterCard.addEventListener("click", function () {
-    const description = characterCard.querySelector(".description");
-    description.style.display =
-      description.style.display === "none" ? "block" : "none";
-  });
   return characterCard;
 }
 
@@ -68,5 +62,7 @@ async function charactersByPlanet(planetId) {
     charactersContainer.appendChild(characterCard);
   });
 }
+
+loadPlanets();
 
 
